@@ -18,3 +18,6 @@ server/messages.pot
 
 # Redis dump
 server/dump.rdb
+
+#file extensions
+*.DS_Store
