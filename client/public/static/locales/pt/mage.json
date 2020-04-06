@@ -1,7 +1,7 @@
 {
-  "EXO": "{{stat}} exo",
-  "MAGE": "Mage",
-  "MAGE_MODAL_TITLE": "Maging {{itemName}}",
-  "REMOVE_EXO": "Remove {{stat}} exo",
-  "RESET_TO_ORIGINAL": "Reset to original stats"
+  "EXO": "Exo {{stat}}",
+  "MAGE": "Magear",
+  "MAGE_MODAL_TITLE": "Mageando {{itemName}}",
+  "REMOVE_EXO": "Remover Exo {{stat}}",
+  "RESET_TO_ORIGINAL": "Resetar para stats originais"
 }
