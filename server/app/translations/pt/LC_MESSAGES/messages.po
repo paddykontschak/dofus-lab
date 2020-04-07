@@ -20,56 +20,57 @@ msgstr ""
 
 #: app/mutation_validation_utils.py:18
 msgid "The email you entered is invalid."
-msgstr ""
+msgstr "O email digitado não é válido."
 
 #: app/mutation_validation_utils.py:21
 msgid "There already exists a user with that email."
-msgstr ""
+msgstr "Já existe um usuário com esse email."
 
 #: app/mutation_validation_utils.py:28
 msgid "The display name you entered is invalid."
-msgstr ""
+msgstr "O nome de usuário que você digitou não é válido."
 
 #: app/mutation_validation_utils.py:31
 msgid "There already exists a user with that display name."
-msgstr ""
+msgstr "Esse nome de usuário já está em uso."
 
 #: app/mutation_validation_utils.py:39
 msgid ""
 "Passwords must have a minimum of 8 characters, at least one lowercase "
 "letter, one uppercase letter, and one number."
-msgstr ""
+msgstr "Senhas devem ter, no mínimo, 8 caracteres. Pelo menos uma letra maiúscula,"
+ "uma minúscula e um número."
 
 #: app/schema.py:308 app/schema.py:311
 msgid "Invalid stat value."
-msgstr ""
+msgstr "Valor de stat inválido."
 
 #: app/schema.py:333
 msgid "The set name is too long."
-msgstr ""
+msgstr "O nome do set é muito longo."
 
 #: app/schema.py:335
 msgid "Invalid set level (must be 1-200)."
-msgstr ""
+msgstr "O nível do set é inválido (deve ser entre 1 e 200)"
 
 #: app/schema.py:397 app/schema.py:434 app/schema.py:466 app/utils.py:15
 #: app/utils.py:17
 msgid "You don't have permission to edit that set."
-msgstr ""
+msgstr "Você não tem permissão para editar esse set."
 
 #: app/schema.py:436
 msgid "Invalid stat to set exo."
-msgstr ""
+msgstr "Stat inválido para o exo"
 
 #: app/schema.py:489 app/schema.py:515
 msgid "You are already logged in."
-msgstr ""
+msgstr "Você já está logado."
 
 #: app/schema.py:499
 msgid "An error occurred while registering."
-msgstr ""
+msgstr "Ocorreu um erro durante o cadastro."
 
 #: app/schema.py:520
 msgid "Invalid username or password."
-msgstr ""
+msgstr "Nome de Usuário ou senha inválidos."
 
